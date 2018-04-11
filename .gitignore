@@ -1,0 +1,5 @@
+.idea
+target
+sbt-dist
+project/project
+project/target
